@@ -65,6 +65,15 @@
 <details>
 <summary><b>🌟 Key Projects (Expand)</b></summary>
 
+### 💼 Embodied AI Robot System (Commercial Product)
+**End-to-End Robotics Software Architecture · Core Developer**
+> A fully integrated physical robot seamlessly combining voice interaction, vision, and mechanical control. *(Closed-source company product)*
+- **Intelligent Workflow:** Engineered a closed-loop system: Voice Wake-up -> ASR -> Agent Dispatch -> Robot Execution -> TTS Broadcast.
+- **Vision & Grasping:** Utilized Multi-modal LLMs, **FastSAM + TensorRT** for real-time segmentation, and depth camera inverse kinematics for precise object grasping.
+- **Cognitive & Navigation:** Integrated FastGPT for online knowledge base dialogues and empowered the robot with autonomous navigation tasks.
+
+---
+
 ### [⭐ Tinbot](https://github.com/T1anhu4/tinbot)
 **Autonomous Multi-Skill AI Agent · Lead Developer**
 > Bridging browser automation and local OS control.
@@ -73,11 +82,12 @@
 
 ---
 
-### ⭐ Vision-Based Robotic Fruit Picking System
-**End-to-End Embodied AI Solution · Core Developer**
-> Making AI "See" and "Act" in the real world.
-- Deployed on **Jetson Orin NX** with **YOLOv10 + TensorRT**.
-- Optimized inference latency to meet real-time robotic arm control requirements.
+### [⭐ FastGPT-vLLM-Qwen-TEI](https://github.com/T1anhu4/FastGPT-vLLM-Qwen-TEI)
+**High-Performance Local RAG Deployment Solution · Creator**
+> A one-stop deployment architecture solving VRAM OOM and network constraints.
+- **Inference & Search:** Built with **vLLM (Qwen2.5-7B)** and **TEI (BGE-M3)** to achieve high-concurrency and low-latency queries.
+- **VRAM Optimization:** Fine-tuned model parameters to stably co-host LLM and Embedding models on a single GPU.
+- **Network & Access:** Customized for domestic network environments (HF/Docker acceleration) and integrated **FRP + Nginx** for secure public access to intranet services.
 
 </details>
 
