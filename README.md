@@ -65,7 +65,7 @@
 <details open>
 <summary><b>🌟 Key Projects (Expand)</b></summary>
 
-### ⭐ Tinbot
+### [⭐ Tinbot](https://github.com/T1anhu4/tinbot)
 **Autonomous Multi-Skill AI Agent · Lead Developer**
 > Bridging browser automation and local OS control.
 - Built on MoltBot architecture to handle high-complexity, multi-step tasks.
