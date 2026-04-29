@@ -1,11 +1,6 @@
-<div id="top"></div>
-
 <p align="right">
-  <a href="#english-version"><img src="https://img.shields.io/badge/Language-English-blue?style=for-the-badge" alt="English"/></a>
-  <a href="#chinese-version"><img src="https://img.shields.io/badge/语言-中文-red?style=for-the-badge" alt="中文版"/></a>
+  <a href="./README_cn.md"><img src="https://img.shields.io/badge/语言-中文版-red?style=for-the-badge" alt="中文版"/></a>
 </p>
-
-<div id="english-version"></div>
 
 <h1 align="center">Tinwaa (Wen Tianhua)</h1>
 
@@ -103,6 +98,10 @@
 
 ---
 
-## 🤝 Contact (EN)
-- **Email**: [Your Email]
-- **GitHub**: [Your Profile Link]
+## 🤝 Contact
+- **Email**: t1anhu4w@gmail.com
+- **GitHub**: 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=T1anhu4&show_icons=true&theme=radium" alt="GitHub Stats" />
+</p>
