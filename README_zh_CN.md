@@ -62,10 +62,10 @@
 
 ---
 
-<details open>
+<details>
 <summary><b>🌟 重点项目 (点击展开)</b></summary>
 
-### ⭐ Tinbot
+### [⭐ Tinbot](https://github.com/T1anhu4/tinbot)
 **自主多技能 AI 智能体 · 核心开发者**
 > 打通浏览器自动化与本地系统控制的桥梁。
 - 基于 MoltBot 架构构建，用于处理高复杂度的多步骤任务。
