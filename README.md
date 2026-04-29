@@ -62,7 +62,7 @@
 
 ---
 
-<details open>
+<details>
 <summary><b>🌟 Key Projects (Expand)</b></summary>
 
 ### [⭐ Tinbot](https://github.com/T1anhu4/tinbot)
