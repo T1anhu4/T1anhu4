@@ -1,5 +1,6 @@
 <p align="right">
-  <a href="./README_cn.md"><img src="https://img.shields.io/badge/语言-中文版-red?style=for-the-badge" alt="中文版"/></a>
+  <a href="./README_zh_CN.md"><img src="https://img.shields.io/badge/简体中文-red?style=for-the-badge" alt="Simplified Chinese"/></a>
+  <a href="./README_zh_HK.md"><img src="https://img.shields.io/badge/繁體中文-orange?style=for-the-badge" alt="Traditional Chinese"/></a>
 </p>
 
 <h1 align="center">Tinwaa (Wen Tianhua)</h1>
@@ -10,10 +11,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LLM-vLLM%20%7C%20FastGPT-blue"/>
-  <img src="https://img.shields.io/badge/Agent-MoltBot%20%7C%20Tinbot-green"/>
-  <img src="https://img.shields.io/badge/Vision-YOLOv10%20%7C%20TensorRT-orange"/>
-  <img src="https://img.shields.io/badge/Edge-Jetson%20%7C%20RK3588S-purple"/>
+  <img src="https://img.shields.io/badge/LLM-vLLM%20%7C%20FastGPT-blue?style=for-the-badge&logo=openai"/>
+  <img src="https://img.shields.io/badge/Agent-MoltBot%20%7C%20Tinbot-green?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Vision-YOLOv10%20%7C%20TensorRT-orange?style=for-the-badge&logo=nvidia"/>
+  <img src="https://img.shields.io/badge/Edge-Jetson%20%7C%20RK3588S-purple?style=for-the-badge&logo=raspberrypi"/>
 </p>
 
 <p align="center">
@@ -24,7 +25,7 @@
 
 ## 🧩 About Me
 
-> Dedicated to **AI Model Commercialization & Embodied AI Development** > I don't just call APIs; I build **platform-level loops** from edge hardware to cloud LLMs.
+> Dedicated to **AI Model Commercialization & Embodied AI Development** <br> I don't just call APIs; I build **platform-level loops** from edge hardware to cloud LLMs.
 
 ---
 
@@ -100,7 +101,7 @@
 
 ## 🤝 Contact
 - **Email**: t1anhu4w@gmail.com
-- **GitHub**: 
+- **GitHub**: https://github.com/T1anhu4
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=T1anhu4&show_icons=true&theme=radium" alt="GitHub Stats" />
